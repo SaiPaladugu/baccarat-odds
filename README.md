@@ -11,7 +11,7 @@ Based on the script, the estimated probabilities for each outcome are as follows
 - Banker (Dealer) wins: 45.91%
 - Tie: 9.44%
 
-To get these numbers, you can simply run the Python script.
+To get the more precise figures, you can simply run the Python script.
 
 ### Installation
 ```bash
