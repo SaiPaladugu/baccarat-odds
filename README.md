@@ -1,10 +1,10 @@
 # Baccarat Odds
 Program to calculate baccarat odds
 
-# Overview
+### Overview
 This script calculates the probability of winning outcomes in a card game for the player, the dealer (Banker), and the chances of a tie.
 
-# Results
+### Results
 Based on the script, the estimated probabilities for each outcome are as follows:
 
 - Player wins: 44.65%
@@ -13,7 +13,7 @@ Based on the script, the estimated probabilities for each outcome are as follows
 
 To get these numbers, you can simply run the Python script.
 
-# Installation
+### Installation
 ```bash
 git clone https://github.com/SaiPaladugu/baccarat-odds
 cd baccarat-odds
