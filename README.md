@@ -1,4 +1,4 @@
-# baccarat-odds
+# Baccarat Odds
 Program to calculate baccarat odds
 
 # Overview
