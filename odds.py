@@ -1,8 +1,5 @@
 import itertools
 
-# Sai Paladugu 101224375
-# William Zhu 101231064
-
 # Topic #1: Analysis of Baccarat with a shoe size of 2
 
 # here is the deck mentioned in the explanation
